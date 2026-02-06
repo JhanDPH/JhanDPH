@@ -61,6 +61,8 @@ Aplicación de **datos y Business Intelligence** para:
 - 📈 Análisis de productividad  
 - 📝 Reportes técnicos y ejecutivos  
 
+## Habilidades Blandas
+
 <p align="center">
   <img src="assets/habilidades-blandas.png" alt="Habilidades blandas" width="420">
 </p>
@@ -70,6 +72,3 @@ Aplicación de **datos y Business Intelligence** para:
 
 ![Español](https://img.shields.io/badge/Español-Nativo-red?style=for-the-badge)
 ![Inglés](https://img.shields.io/badge/Inglés-B2-blue?style=for-the-badge)
-
-## habilidades Blandas
-

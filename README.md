@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy Jhan Daniel
 
-<!--
-**JhanDPH/JhanDPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Ubicación:** Montería, Córdoba, Colombia  
+📧 **Correo:** jhandanielparrah.06@hotmail.es
 
-Here are some ideas to get you started:
+## 🎓 Formación Académica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏗️ **Técnico en Arquitectura y Obra Civil**  
+- 📊 **Data Engineer** *(en proceso)*  
+- 🎓 **Institución:** Platzi  
+
+Soy **Técnico en Arquitectura y Obra Civil**, con experiencia en **infraestructura, vías y proyectos de construcción**, y actualmente en formación como **Data Engineer en Platzi**.
+
+Mi perfil se enfoca en la integración de **Business Intelligence** e **ingeniería de datos** para mejorar la **gestión de proyectos**, la **optimización de recursos** y la **toma de decisiones estratégicas** en diferentes sectores.
+
+## Herramientas y Tecnologia
+
+### Business Intelligence & Análisis
+

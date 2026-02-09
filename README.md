@@ -45,10 +45,6 @@ Mi perfil se enfoca en la integración de **Business Intelligence** e **ingenier
 - 📊 Dashboards ejecutivos  
 - 🤖 Automatización de reportes  
 
-<p align="center">
-  <img src="assets/data-analyst.png" alt="Perfil Data Analyst" width="420">
-</p>
-
 ---
 
 ## 🏗️ Enfoque en Construcción e Infraestructura
@@ -60,13 +56,6 @@ Aplicación de **datos y Business Intelligence** para:
 - 🚧 Optimización de recursos y materiales  
 - 📈 Análisis de productividad  
 - 📝 Reportes técnicos y ejecutivos  
-
-## Habilidades Blandas
-
-<p align="center">
-  <img src="assets/habilidades-blandas.png" alt="Habilidades blandas" width="420">
-</p>
-
 
 ## 🌍 Idiomas
 

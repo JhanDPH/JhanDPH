@@ -59,7 +59,6 @@ Aplicación de **datos y Business Intelligence** para:
 
 ### :zap: Actividad Reciente
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 ## 🌍 Idiomas

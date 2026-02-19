@@ -58,8 +58,8 @@ Aplicación de **datos y Business Intelligence** para:
 - 📝 Reportes técnicos y ejecutivos  
 
 ### :zap: Actividad Reciente
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ## 🌍 Idiomas
 

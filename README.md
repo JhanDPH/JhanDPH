@@ -57,17 +57,10 @@ Aplicación de **datos y Business Intelligence** para:
 - 📈 Análisis de productividad  
 - 📝 Reportes técnicos y ejecutivos  
 
-## :zap: Actividad reciente
-
+### :zap: Actividad reciente
 <!--START\_SECTION:activity-->
 
 <!--END\_SECTION:activity-->
-
-
-
-<!--RECENT\_ACTIVITY:start-->
-
-<!--RECENT\_ACTIVITY:last\_update-->
 
 ## 🌍 Idiomas
 
